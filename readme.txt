@@ -4,4 +4,4 @@ This is my first git.
 I can do it.
 Beautiful day.
 Go Go Go.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
